@@ -1,0 +1,13 @@
+#!/bin/sh
+# Regenera las imágenes derivadas de profile.jpg antes de cada push y lo detiene si quedaron distintas a lo commiteado.
+# Para activarlo: git config core.hooksPath .githooks
+set -e
+root=$(git rev-parse --show-toplevel)
+"$root/scripts/build-images.sh"
+changed=$(git -C "$root" status --porcelain -- profile-512.jpg cv/profile.jpg)
+if [ -n "$changed" ]; then
+  echo "pre-push: las imágenes cambiaron al regenerarlas desde profile.jpg:" >&2
+  echo "$changed" >&2
+  echo "pre-push: haz commit de esos archivos y vuelve a hacer push." >&2
+  exit 1
+fi

@@ -1,0 +1,68 @@
+{
+  "name": [
+    "Rodrigo Fabián Andrés",
+    "Fuentealba Cartes"
+  ],
+  "email": "devrfc83@gmail.com",
+  "web": "https://www.devrfc83.com/",
+  "skills": [
+    "Linux",
+    "Docker",
+    "Apache",
+    "PostgreSQL",
+    "PHP/Laravel",
+    "JavaScript/React",
+    "CSS/Tailwind",
+    "RapidMiner"
+  ],
+  "experience": [
+    {
+      "id": "carabineros",
+      "from": 2022,
+      "to": null
+    },
+    {
+      "id": "seadragon",
+      "from": 2021,
+      "to": null
+    },
+    {
+      "id": "pegasus",
+      "from": 2017,
+      "to": 2021
+    },
+    {
+      "id": "zeit",
+      "from": 2015,
+      "to": 2016
+    },
+    {
+      "id": "intellisoft",
+      "from": 2009,
+      "to": 2014
+    },
+    {
+      "id": "pares",
+      "from": 2006,
+      "to": 2007
+    }
+  ],
+  "languages": [
+    {
+      "id": "es",
+      "level": 5
+    },
+    {
+      "id": "en",
+      "level": 4
+    },
+    {
+      "id": "de",
+      "level": 2
+    },
+    {
+      "id": "it",
+      "level": 2
+    }
+  ]
+}

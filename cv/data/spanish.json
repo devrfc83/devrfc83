@@ -1,0 +1,73 @@
+{
+  "lang": "es",
+  "headline": "Ingeniero en Computación e Informática",
+  "location": "Talca, Maule, Chile",
+  "labels": {
+    "email": "Email",
+    "location": "Ubicación",
+    "web": "Web",
+    "education": "Educación",
+    "skills": "Habilidades",
+    "languages": "Idiomas",
+    "experience": "Experiencia Relevante",
+    "present": "Presente"
+  },
+  "levels": {
+    "5": "Nativo",
+    "4": "Avanzado",
+    "2": "Básico"
+  },
+  "education": {
+    "unab": {
+      "degree": [
+        "Ingeniero en Computación e Informática",
+        "Licenciado en Ciencias de la Ingeniería"
+      ],
+      "org": "Universidad Andrés Bello",
+      "detail": "Graduado con Distinción Cum Laude — 2024"
+    },
+    "inacap": {
+      "degree": "Analista Programador",
+      "org": "Instituto INACAP",
+      "detail": "Graduado 2008"
+    }
+  },
+  "languages": {
+    "es": "Castellano",
+    "en": "Inglés",
+    "de": "Alemán",
+    "it": "Italiano"
+  },
+  "experience": {
+    "carabineros": {
+      "role": "Ingeniero de Proyectos",
+      "org": "Carabineros de Chile",
+      "desc": "Desarrollo de sistemas que apoyan el diseño de políticas públicas de seguridad en el marco de la Ley S.T.O.P."
+    },
+    "seadragon": {
+      "role": "Socio Director",
+      "org": "Sea Dragon S.p.A., Chile",
+      "desc": "Fundación y dirección de Sea Dragon S.p.A., consultora tecnológica especializada en ciencia de datos e ingeniería de software."
+    },
+    "pegasus": {
+      "role": "Consultor TI / Data Scientist",
+      "org": "The Pegasus Group, Chile",
+      "desc": "Desarrollo de soluciones tecnológicas a medida para clientes de los sectores público y privado, y representación de la marca RapidMiner en Chile."
+    },
+    "zeit": {
+      "role": "Desarrollador de Software",
+      "org": "Zeit.io, Alemania",
+      "desc": "Desarrollo de sistemas para clientes de la empresa en modalidad remota."
+    },
+    "intellisoft": {
+      "role": "Desarrollador de Software",
+      "org": "Intellisoft, Chile",
+      "desc": "Desarrollo de sistemas SaaS (software como servicio) para empresas del holding: Fidelizador y ProactiveOffice."
+    },
+    "pares": {
+      "role": "Desarrollador de Software",
+      "org": "Parés y Álvarez Ingenieros Asociados, Chile",
+      "desc": "Desarrollo de sistemas de información para clientes internos y colaboración en el diseño de la red y el centro de datos de la empresa."
+    }
+  }
+}
