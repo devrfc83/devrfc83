@@ -1,0 +1,73 @@
+{
+  "lang": "en",
+  "headline": "Software Engineer",
+  "location": "Talca, Maule, Chile",
+  "labels": {
+    "email": "Email",
+    "location": "Location",
+    "web": "Web",
+    "education": "Education",
+    "skills": "Skills",
+    "languages": "Languages",
+    "experience": "Relevant Experience",
+    "present": "Present"
+  },
+  "levels": {
+    "5": "Native",
+    "4": "Advanced",
+    "2": "Basic"
+  },
+  "education": {
+    "unab": {
+      "degree": [
+        "Computer Engineering",
+        "Bachelor of Engineering Sciences"
+      ],
+      "org": "Universidad Andrés Bello",
+      "detail": "Graduated with Cum Laude Distinction — 2024"
+    },
+    "inacap": {
+      "degree": "Programmer Analyst",
+      "org": "Instituto INACAP",
+      "detail": "Graduated 2008"
+    }
+  },
+  "languages": {
+    "es": "Spanish",
+    "en": "English",
+    "de": "German",
+    "it": "Italian"
+  },
+  "experience": {
+    "carabineros": {
+      "role": "Project Engineer",
+      "org": "Carabineros de Chile",
+      "desc": "Development of systems that support the design of public security policy under Chile's S.T.O.P. Law."
+    },
+    "seadragon": {
+      "role": "Managing Partner",
+      "org": "Sea Dragon S.p.A., Chile",
+      "desc": "Founder and manager of Sea Dragon S.p.A., a technology consultancy specialized in data science and software engineering."
+    },
+    "pegasus": {
+      "role": "IT Consultant / Data Scientist",
+      "org": "The Pegasus Group, Chile",
+      "desc": "Development of tailored technology solutions for public- and private-sector clients, and representation of the RapidMiner brand in Chile."
+    },
+    "zeit": {
+      "role": "Software Engineer",
+      "org": "Zeit.io, Germany",
+      "desc": "Development of systems for the company's clients, working remotely."
+    },
+    "intellisoft": {
+      "role": "Software Engineer",
+      "org": "Intellisoft, Chile",
+      "desc": "Development of SaaS (software-as-a-service) systems for the holding's companies: Fidelizador and ProactiveOffice."
+    },
+    "pares": {
+      "role": "Software Engineer",
+      "org": "Parés y Álvarez Ingenieros Asociados, Chile",
+      "desc": "Development of information systems for internal clients, and collaboration on the design of the company's network and data center."
+    }
+  }
+}

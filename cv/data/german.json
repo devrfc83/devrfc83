@@ -1,0 +1,73 @@
+{
+  "lang": "de",
+  "headline": "Informatikingenieur",
+  "location": "Talca, Maule, Chile",
+  "labels": {
+    "email": "E-Mail",
+    "location": "Ort",
+    "web": "Web",
+    "education": "Ausbildung",
+    "skills": "Kenntnisse",
+    "languages": "Sprachen",
+    "experience": "Relevante Berufserfahrung",
+    "present": "Heute"
+  },
+  "levels": {
+    "5": "Muttersprache",
+    "4": "Fortgeschritten",
+    "2": "Grundkenntnisse"
+  },
+  "education": {
+    "unab": {
+      "degree": [
+        "Informatikingenieurwesen",
+        "Bachelor der Ingenieurwissenschaften"
+      ],
+      "org": "Universidad Andrés Bello",
+      "detail": "Abschluss mit Auszeichnung (Cum Laude) — 2024"
+    },
+    "inacap": {
+      "degree": "Programmierer-Analytiker",
+      "org": "Instituto INACAP",
+      "detail": "Abschluss 2008"
+    }
+  },
+  "languages": {
+    "es": "Spanisch",
+    "en": "Englisch",
+    "de": "Deutsch",
+    "it": "Italienisch"
+  },
+  "experience": {
+    "carabineros": {
+      "role": "Projektingenieur",
+      "org": "Carabineros de Chile",
+      "desc": "Entwicklung von Systemen zur Unterstützung der Gestaltung öffentlicher Sicherheitspolitik im Rahmen des chilenischen S.T.O.P.-Gesetzes."
+    },
+    "seadragon": {
+      "role": "Geschäftsführender Gesellschafter",
+      "org": "Sea Dragon S.p.A., Chile",
+      "desc": "Gründer und Geschäftsführer von Sea Dragon S.p.A., einem auf Data Science und Softwareentwicklung spezialisierten Technologieberatungsunternehmen."
+    },
+    "pegasus": {
+      "role": "IT-Berater / Data Scientist",
+      "org": "The Pegasus Group, Chile",
+      "desc": "Entwicklung maßgeschneiderter Technologielösungen für Kunden aus dem öffentlichen und privaten Sektor sowie Vertretung der Marke RapidMiner in Chile."
+    },
+    "zeit": {
+      "role": "Softwareentwickler",
+      "org": "Zeit.io, Deutschland",
+      "desc": "Entwicklung von Systemen für die Kunden des Unternehmens im Remote-Modus."
+    },
+    "intellisoft": {
+      "role": "Softwareentwickler",
+      "org": "Intellisoft, Chile",
+      "desc": "Entwicklung von SaaS-Systemen (Software as a Service) für die Unternehmen der Holding: Fidelizador und ProactiveOffice."
+    },
+    "pares": {
+      "role": "Softwareentwickler",
+      "org": "Parés y Álvarez Ingenieros Asociados, Chile",
+      "desc": "Entwicklung von Informationssystemen für interne Kunden sowie Mitwirkung an der Planung des Unternehmensnetzwerks und Rechenzentrums."
+    }
+  }
+}

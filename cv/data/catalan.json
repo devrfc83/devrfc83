@@ -1,0 +1,73 @@
+{
+  "lang": "ca",
+  "headline": "Enginyer en Computació i Informàtica",
+  "location": "Talca, Maule, Xile",
+  "labels": {
+    "email": "Correu",
+    "location": "Ubicació",
+    "web": "Web",
+    "education": "Educació",
+    "skills": "Habilitats",
+    "languages": "Idiomes",
+    "experience": "Experiència Rellevant",
+    "present": "Present"
+  },
+  "levels": {
+    "5": "Natiu",
+    "4": "Avançat",
+    "2": "Bàsic"
+  },
+  "education": {
+    "unab": {
+      "degree": [
+        "Enginyeria en Computació i Informàtica",
+        "Llicenciat en Ciències de l'Enginyeria"
+      ],
+      "org": "Universidad Andrés Bello",
+      "detail": "Graduat amb Distinció Cum Laude — 2024"
+    },
+    "inacap": {
+      "degree": "Analista Programador",
+      "org": "Instituto INACAP",
+      "detail": "Graduat el 2008"
+    }
+  },
+  "languages": {
+    "es": "Castellà",
+    "en": "Anglès",
+    "de": "Alemany",
+    "it": "Italià"
+  },
+  "experience": {
+    "carabineros": {
+      "role": "Enginyer de Projectes",
+      "org": "Carabineros de Chile",
+      "desc": "Desenvolupament de sistemes que donen suport al disseny de polítiques públiques de seguretat en el marc de la Llei S.T.O.P. de Xile."
+    },
+    "seadragon": {
+      "role": "Soci Director",
+      "org": "Sea Dragon S.p.A., Chile",
+      "desc": "Fundació i direcció de Sea Dragon S.p.A., consultora tecnològica especialitzada en ciència de dades i enginyeria de programari."
+    },
+    "pegasus": {
+      "role": "Consultor TI / Data Scientist",
+      "org": "The Pegasus Group, Chile",
+      "desc": "Desenvolupament de solucions tecnològiques a mida per a clients dels sectors públic i privat, i representació de la marca RapidMiner a Xile."
+    },
+    "zeit": {
+      "role": "Desenvolupador de Programari",
+      "org": "Zeit.io, Alemanya",
+      "desc": "Desenvolupament de sistemes per a clients de l'empresa en modalitat remota."
+    },
+    "intellisoft": {
+      "role": "Desenvolupador de Programari",
+      "org": "Intellisoft, Chile",
+      "desc": "Desenvolupament de sistemes SaaS (programari com a servei) per a empreses del grup: Fidelizador i ProactiveOffice."
+    },
+    "pares": {
+      "role": "Desenvolupador de Programari",
+      "org": "Parés y Álvarez Ingenieros Asociados, Chile",
+      "desc": "Desenvolupament de sistemes d'informació per a clients interns i col·laboració en el disseny de la xarxa i el centre de dades de l'empresa."
+    }
+  }
+}
