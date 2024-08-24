@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Rodrigo and I am a neurodivergent human being who works in data science, plays chess and rides motorcycles.
 - 🖥️ This account is connected to my Raspberry Pi. I use it to create different projects and to keep myself sharp on UNIX systems.
-- 🌱 I’m currently learning Python, Node.js, React, Tailwind, and Docker.
-- 💞️ I’m looking to collaborate on Web, Docker applications, and automation projects.
+- 🌱 I am currently learning Python, Node.js, React, Tailwind, and Docker.
+- 💞️ I am looking to collaborate on Web, Docker applications, and automation projects.
 - 👀 Besides software and electronics, I am interested in travel, languages, music, and photography.
 - 💬 I speak Spanish, English, Italian, Portuguese, and German.
 - 🎸 I play piano and guitar.
