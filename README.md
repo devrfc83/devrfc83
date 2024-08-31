@@ -7,7 +7,7 @@
 - 🎸 I play piano and guitar.
 - 📫 You can reach me via my website: https://www.dev-rfc83.com/
 - 😄 My pronouns are: he/him.
-- ⚡ Fun fact: I began working in electronics and this Raspberry Pi Zero W because I needed to fix a small toy bought by my sister in New Zealand.
+- ⚡ Fun fact: I began working in electronics and this Raspberry Pi Zero 2 W because I needed to fix a small toy bought by my sister in New Zealand.
 
 <!---
 devrfc83/devrfc83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
